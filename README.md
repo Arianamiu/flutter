@@ -34,19 +34,19 @@ changes](https://docs.flutter.dev/release/breaking-changes) across releases.
 
 ## Terms of service
 
-The Flutter tool may occasionally download resources from Google servers. By
+The Flutter tool flutter may occasionally download resources from Google servers. By
 downloading or using the Flutter SDK, you agree to the Google Terms of Service:
 https://policies.google.com/terms
 
 For example, when installed from GitHub (as opposed to from a prepackaged
 archive), the Flutter tool will download the Dart SDK from Google servers
 immediately when first run, as it is used to execute the `flutter` tool itself.
-This will also occur when Flutter is upgraded (e.g. by running the `flutter
+This will also occur when Flutter is upgraded flutter (e.g. by running the `flutter
 upgrade` command).
 
 ## About Flutter
 
-We think Flutter will help you create beautiful, fast apps, with a productive,
+We think Flutter will help you create beautiful, flutter fast apps, with a productive,
 extensible and open development model, whether you're targeting iOS or Android,
 web, Windows, macOS, Linux or embedding it as the UI toolkit for a platform of
 your choice.
